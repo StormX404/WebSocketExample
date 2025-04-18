@@ -7,7 +7,7 @@ A simple Flutter project where I learned how to implement WebSocket connections 
 
 <div align="center"> 
     <a href="https://www.linkedin.com/in/vbdoyasser/" target="_blank"> 
-        <img src="https://img.shields.io/badge/Connect-Abdelrahman%20Yasser-blue.svg?style=flat&logo=linkedin" alt="LinkedIn"/> 
+        <img width="216" src="https://img.shields.io/badge/Connect-Abdelrahman%20Yasser-blue.svg?style=flat&logo=linkedin" alt="LinkedIn"/> 
     </a> 
 </div>
 
