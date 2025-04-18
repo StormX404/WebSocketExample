@@ -1,16 +1,14 @@
-# web_socket_example
+#  BTC/USDT Live - Flutter
 
-A new Flutter project.
+A simple Flutter project where I learned how to implement WebSocket connections for real-time data communication, specifically fetching live BTC/USDT price updates.
 
-## Getting Started
+## 📷 Screenshot
+![Screenshot_20250418_212433](https://github.com/user-attachments/assets/1495662c-9105-4278-aaa3-9dff6fbaf03b)
 
-This project is a starting point for a Flutter application.
+<div align="center"> 
+    <a href="https://www.linkedin.com/in/vbdoyasser/" target="_blank"> 
+        <img src="https://img.shields.io/badge/Connect-Abdelrahman%20Yasser-blue.svg?style=flat&logo=linkedin" alt="LinkedIn"/> 
+    </a> 
+</div>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Back to top](#top)
